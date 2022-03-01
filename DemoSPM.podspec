@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DemoSPM'
-  s.version          = '1.0.0'
+  s.version          = '0.1.0'
   s.summary          = 'This is Cocoapods version of DemoSPM.'
   s.homepage         = 'https://github.com/mahi8514/DemoSPM'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
