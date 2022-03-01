@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/mahi8514/DemoSPM'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { 'Reasonlabs' => 'mahin.ibrahim@reasonlabs.com' }
-  s.source           = { :git => 'https://github.com/mahi8514/DemoSPM/Podspecs.git', :branch => "main", :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mahi8514/DemoSPM/DemoSPM.git', :branch => "main", :tag => s.version.to_s }
   s.ios.deployment_target = '15.0'
   s.swift_version = '5.0'
   s.source_files = 'Sources/DemoSPM/**/*'
