@@ -1,0 +1,21 @@
+PODS:
+  - DemoSPM (0.1.0)
+
+DEPENDENCIES:
+  - DemoSPM (from `https://github.com/mahi8514/DemoSPM.git`)
+
+EXTERNAL SOURCES:
+  DemoSPM:
+    :git: https://github.com/mahi8514/DemoSPM.git
+
+CHECKOUT OPTIONS:
+  DemoSPM:
+    :commit: a299f45a99544a88ea46bb45f7d6f64bec4f0410
+    :git: https://github.com/mahi8514/DemoSPM.git
+
+SPEC CHECKSUMS:
+  DemoSPM: 96f7cbb523233e1a31c455739619f0182afa292d
+
+PODFILE CHECKSUM: 464458186820af13ee4d3ff2d194f2c4b3ce30ac
+
+COCOAPODS: 1.11.2
