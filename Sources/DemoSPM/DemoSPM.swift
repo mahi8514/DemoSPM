@@ -1,5 +1,5 @@
 public struct DemoSPM {
-    public private(set) var text = "V2 Will release soon"
+    public private(set) var text = "Example added"
 
     public init() {
     }
